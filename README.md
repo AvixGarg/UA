@@ -1,7 +1,6 @@
 # UA
 AHT and AST 
 
-
 Cracking the code for Call Center Success
 
 
